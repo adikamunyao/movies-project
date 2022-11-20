@@ -8,7 +8,7 @@ This project was on classification analysis of types of films currently doing th
 ## Business Understanding:
 
 ### Problem
-One of the most well-known genres of art, film production has millions of spectators worldwide. There are many ways that movies can be communicated to viewers as a result of the development of various films genres over time.[here](https://doi.org/10.1093/screen/16.3.6)
+One of the most well-known form of art, film production has millions of spectators worldwide. There are many ways that movies can be communicated to viewers as a result of the development of various films genres over time.[here](https://doi.org/10.1093/screen/16.3.6)
 
 ## Aim
 This project's goal is to investigate the movie datasets from the box office, IMDB, the movie database, and the numbers in order to provide analytical responses to business questions, profitability analysis and to determine the relationships between various movie quality indicators .
@@ -83,3 +83,4 @@ These were the columns used in the final dataset.
 More research could be done to understand what causes movies to be non profitable. This could help avoid loss in the movie industry.
 
 ### Repository Guide.
+[presentation](https://www.canva.com/design/DAFSgkILMgE/VGd6v1cdGfLTX7XQWW7KPw/view?utm_content=DAFSgkILMgE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
