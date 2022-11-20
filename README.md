@@ -37,7 +37,7 @@ The datasets being from differnt sources, sorting of the data took most of the p
 This sections contains all the procedures followed in getting the data analysis ready. 
 
 #### Datasets import
-This dataset contains 28 columns and about 5,043 movies spanning across {} years countries kunbuka kujaza hii part,,,, ..... ,,,, ....
+loading of the csv files and converting them into pandas dataframes
 
 #### Data Cleaning.
 The first step of data cleaning comprises fixing of structural issues on the data.
@@ -45,21 +45,41 @@ Deleting the duplicates in the data. Duplicate data must be deleted because they
 The merging and joining of datasets based on shared columns using inner and left join constitutes the third step in data cleansing. Drooping columns that were not part of my analysis.
 
 ### Data Preview.
-a summary data ..... ... 
-
+These were the columns used in the final dataset.
+ * release_date
+ * original_title
+ * production_budget
+ * domestic_gross
+ * worldwide_gross
+ * averagerating
+ * genres
+ * numvotes
+ * runtime_minutes
+ * studio
+ * domestic_profit
 
 ### Exploratory Data Analysis.
-* Genre Analysis
+*1 Genre Analysis
 
-* Runtime Analysis
+*2 Runtime Analysis
 
-* Pofitability analysis
+*3 Pofitability analysis
 
 ### Conclusions.
+* Drama, Comedy and Action are the top genres. As seen in the pie chart and wordcloud
+* Production budget and domestic gross have a high correlation.
+* Drama genre continues to dominate most of the movies being produced.
+* Runtime of movies has not greatly changed over the yaers as seen from the analysis.
+* Significant number of movies go into loss.
+* Movies that audience easily relates with are popular and have higher ratings.
 
 
 ### Recommendations.
+* To enter into the film industry, it is important to consider short movies at an average of 50 minutes.
 
+* There are factors that affect the movie perfomance after it has been prodced these include release date and the streaming platforms.
 
+* 
+More research could be done to understand what causes movies to be non profitable. This could help avoid loss in the movie industry.
 
 ### Repository Guide.
